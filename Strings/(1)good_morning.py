@@ -1,5 +1,3 @@
-from tensorflow.python.ops.logging_ops import Print
-
 user = input('Enter your name: ')
 
 #methid 1
